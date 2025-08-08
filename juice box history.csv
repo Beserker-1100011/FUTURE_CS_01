@@ -1,0 +1,32 @@
+ID,Source,Req. Timestamp,Method,URL,Code,Reason,RTT,Size Resp. Body,Highest Alert,Note,Tags
+1,Proxy,Wed Aug 06 10:15:26 CDT 2025,GET,http://localhost:3000/,200,OK,41,80117,Medium,false,"Comment, Script"
+3,Proxy,Wed Aug 06 10:15:27 CDT 2025,GET,http://localhost:3000/runtime.js,200,OK,19,3315,Medium,false,
+4,Proxy,Wed Aug 06 10:15:27 CDT 2025,GET,http://localhost:3000/vendor.js,200,OK,105,1622583,Medium,false,Comment
+12,Proxy,Wed Aug 06 10:15:28 CDT 2025,GET,http://localhost:3000/polyfills.js,200,OK,29,34840,Medium,false,
+13,Proxy,Wed Aug 06 10:15:28 CDT 2025,GET,http://localhost:3000/main.js,200,OK,52,457995,Medium,false,Upload
+20,Proxy,Wed Aug 06 10:15:30 CDT 2025,GET,http://localhost:3000/styles.css,200,OK,52,685248,Medium,false,Comment
+21,Proxy,Wed Aug 06 10:15:31 CDT 2025,GET,http://localhost:3000/assets/i18n/en.json,200,OK,16,32473,Medium,false,JSON
+23,Proxy,Wed Aug 06 10:15:31 CDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=PX_ywVC,200,OK,19,96,Low,false,
+25,Proxy,Wed Aug 06 10:15:32 CDT 2025,GET,http://localhost:3000/rest/admin/application-version,200,OK,22,20,Medium,false,JSON
+26,Proxy,Wed Aug 06 10:15:32 CDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,53,21730,Medium,false,JSON
+28,Proxy,Wed Aug 06 10:15:32 CDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,20,21730,Medium,false,JSON
+29,Proxy,Wed Aug 06 10:15:32 CDT 2025,GET,http://localhost:3000/rest/admin/application-version,200,OK,48,20,Medium,false,JSON
+31,Proxy,Wed Aug 06 10:15:32 CDT 2025,GET,http://localhost:3000/rest/languages,200,OK,367,4719,Medium,false,JSON
+32,Proxy,Wed Aug 06 10:15:32 CDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,257,0,Medium,false,
+33,Proxy,Wed Aug 06 10:15:32 CDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,215,21730,Medium,false,JSON
+34,Proxy,Wed Aug 06 10:15:32 CDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,783,696,Medium,false,JSON
+35,Proxy,Wed Aug 06 10:15:32 CDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,662,696,Medium,false,JSON
+40,Proxy,Wed Aug 06 10:15:33 CDT 2025,GET,http://localhost:3000/rest/products/search?q=,200,OK,75,13644,Medium,false,JSON
+41,Proxy,Wed Aug 06 10:15:33 CDT 2025,GET,http://localhost:3000/api/Quantitys/,200,OK,121,6258,Medium,false,JSON
+44,Proxy,Wed Aug 06 10:15:34 CDT 2025,GET,http://localhost:3000/MaterialIcons-Regular.woff2,200,OK,19,60840,Medium,false,Comment
+45,Proxy,Wed Aug 06 10:15:34 CDT 2025,POST,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=PX_yxGV&sid=LujXKUy2dD5CGDG5AAAG,200,OK,44,2,Medium,false,
+46,Proxy,Wed Aug 06 10:15:34 CDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=PX_yxGv&sid=LujXKUy2dD5CGDG5AAAG,200,OK,20,32,Medium,false,
+47,Proxy,Wed Aug 06 10:15:34 CDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=websocket&sid=LujXKUy2dD5CGDG5AAAG,101,Switching Protocols,12,0,Medium,false,
+48,Proxy,Wed Aug 06 10:15:36 CDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,17,0,Medium,false,
+62,Proxy,Wed Aug 06 10:15:37 CDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=PX_yxyL&sid=LujXKUy2dD5CGDG5AAAG,200,OK,196,1,Medium,false,
+63,Proxy,Wed Aug 06 10:15:49 CDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,40,0,Medium,false,
+64,Proxy,Wed Aug 06 10:18:52 CDT 2025,GET,http://localhost:3000/,200,OK,41,80117,Medium,false,"Comment, Script"
+115,Proxy,Wed Aug 06 10:18:59 CDT 2025,GET,http://localhost:3000/rest/continue-code,200,OK,39,79,Medium,false,JSON
+117,Proxy,Wed Aug 06 10:18:59 CDT 2025,GET,http://localhost:3000/705.js,200,OK,24,11121,Medium,false,
+125,Proxy,Wed Aug 06 10:19:00 CDT 2025,GET,http://localhost:3000/rest/continue-code,304,Not Modified,12,0,Medium,false,
+1611,Proxy,Wed Aug 06 10:37:58 CDT 2025,GET,http://localhost:3000,200,OK,55,80117,Medium,false,"Script, Comment"
